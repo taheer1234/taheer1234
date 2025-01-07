@@ -1,4 +1,4 @@
-![LAb13Image](https://github.com/user-attachments/assets/3087b147-e25c-4c70-af9b-3ae4d5a666c3)<h1 align="center">Hi 👋, I'm Taheer Aamir</h1>
+<h1 align="center">Hi 👋, I'm Taheer Aamir</h1>
 
 - 🔭 I’m currently working on training an Upper-Humanoid model to do elderly assistive tasks using Reinforcement Learning
 - 🌱 I’m currently using Isaac Sim and Isaac Lab to carry out my project 
