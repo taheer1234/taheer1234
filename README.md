@@ -18,7 +18,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,matlab,c,flutter,dart,firebase,github,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,matlab,c,github,git,)](https://skillicons.dev)
 
 ![Taheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=taheer1234&show_icons=true&theme=dark)
 
