@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taheer Aamir</h1>
 
-- 🔭 I’m currently working on training an Upper-Humanoid model to do elderly assistive tasks using Reinforcement Learning
-- 🌱 I’m currently using Isaac Sim and Isaac Lab to carry out my project 
+- 🔭 I’m currently working on training an Upper-Humanoid model to do elderly assistive tasks using Reinforcement Learning.
+- 🌱 I’m currently using Isaac Sim and Isaac Lab to carry out my project.
 - ⚡ Fun Fact: Did you know that reinforcement learning can trace its roots back to psychology? It's inspired by behaviorist principles, particularly the idea of learning through rewards and punishments, just like training a pet!
   
 ### Connect with me:
